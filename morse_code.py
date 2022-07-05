@@ -8,7 +8,7 @@ symbols = {
 }
 
 # Taking input from a user
-data = input("Enter text: ").lower()
+data = input("Enter text:\n").lower()
 
 length = len(data)
 
